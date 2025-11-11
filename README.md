@@ -266,10 +266,6 @@ container_scan:
 ## Files
 
 - `transform_cxone_to_gitlab.sh` - Main transformation script (supports 3 input formats)
-- `container-scanning-report-format.json` - GitLab schema reference
-- `response_1762425373895.json` - Sample CxOne API input file
-- `cx_result_jsonv1.json` - Sample CxOne CLI json input file  
-- `cx_result_jsonv2.json` - Sample CxOne CLI jsonv2 input file
 - `README.md` - This documentation
 
 ## Testing
